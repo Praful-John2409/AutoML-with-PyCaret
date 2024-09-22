@@ -26,8 +26,8 @@ All project files, including detailed Colab notebooks and supplementary material
 
 ## 🎥 Video Walkthrough
 
-I have created a video where I walk through each of the Colab notebooks, explaining the code, the models, and the PyCaret functions used. This video will provide a comprehensive guide to understanding the workflow and applications of AutoML using PyCaret.
-[click here](#)
+I have created a video series where I walk through each of the Colab notebooks, explaining the code, the models, and the PyCaret functions used. This video series will provide a comprehensive guide to understanding the workflow and applications of AutoML using PyCaret.
+[click here](https://www.youtube.com/playlist?list=PLkZIndjUMqFVmgGVPl1z6Lt1OUfxft7bc)
 
 ## ✨ How to Use This Repository
 
